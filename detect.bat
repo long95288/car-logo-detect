@@ -1,0 +1,1 @@
+python detect.py --data-cfg data/logo.data --cfg cfg/yolov3-tiny.cfg --weights weights/best.pt

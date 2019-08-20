@@ -6,7 +6,7 @@ from os.path import join
 
 sets = ['train', 'test', 'val']
 
-classes = ["Benz"]  # 我们只是检测细胞，因此只有一个类别
+classes = ["Benz"]  # 只是检测车标logo的
 
 
 def convert(size, box):

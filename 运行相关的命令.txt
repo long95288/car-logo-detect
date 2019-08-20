@@ -1,3 +1,0 @@
-训练数据: python train.py --data-cfg data/logo.data --cfg cfg/yolov3-tiny.cfg --epochs 10
-测试数据: python detect.py --data-cfg data/logo.data --cfg cfg/yolov3-tiny.cfg --weights weights/best.pt
-[注，测试图片请放置于data/sample文件夹下]
